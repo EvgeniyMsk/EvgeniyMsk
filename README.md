@@ -1,4 +1,5 @@
-### Hi there 👋
+Hi! I'm a student of the School 21. Moscow campus. 
+Any questions? Telegram: @hatemeiloveit
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/qsymond)](https://github.com/JaeSeoKim/badge42)
 <!--
 **EvgeniyMsk/EvgeniyMsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
