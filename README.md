@@ -1,7 +1,7 @@
 Hi! I'm a student of the School 21. Moscow campus. 
 Any questions? Telegram: @hatemeiloveit.
-[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/qsymond)](https://github.com/JaeSeoKim/badge42)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/qsymond)](https://github.com/JaeSeoKim/badge42) \n
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=evgeniymsk)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **EvgeniyMsk/EvgeniyMsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
