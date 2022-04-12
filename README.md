@@ -1,7 +1,7 @@
 Hi! I'm a student of the School 21 [Qsymond]. Moscow campus. 
 Any questions? Telegram: @hatemeiloveit.
 
-![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/qsymond)
+[![qsymond's 42 stats](https://badge42.vercel.app/api/v2/cl1vtnek1007809l0udp93ipb/stats?cursusId=21&coalitionId=23)](https://github.com/JaeSeoKim/badge42)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=evgeniymsk)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniymsk)](https://github.com/anuraghazra/github-readme-stats)
 <!--
