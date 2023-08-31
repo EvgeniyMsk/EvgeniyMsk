@@ -1,4 +1,3 @@
-Hi! I'm a student of the School 21 [Qsymond]. Moscow campus. 
 Any questions? Telegram: @hatemeiloveit.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniymsk)](https://github.com/anuraghazra/github-readme-stats)
 <!--
