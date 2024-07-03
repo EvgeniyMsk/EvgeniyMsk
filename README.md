@@ -4,7 +4,6 @@ Any questions? Telegram: @logvinov_evgeniy.
 <br/>
 [![LeetCode user Qsymond](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FQsymond&logo=leetcode&logoColor=yellow)](https://leetcode.com/Qsymond/)
 <br/>
-[![Qsymond's 42 stats](https://badge.mediaplus.ma/darkblue/qsymond)](https://github.com/oakoudad/badge42)
 <!--
 **EvgeniyMsk/EvgeniyMsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
