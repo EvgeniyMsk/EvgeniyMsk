@@ -16,10 +16,10 @@ Any questions? Telegram: @logvinov_evgeniy.
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 <br/>
-![](https://komarev.com/ghpvc/?username=evgeniymsk)
-<br/>
 [![LeetCode user Qsymond](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FQsymond&logo=leetcode&logoColor=yellow)](https://leetcode.com/Qsymond/)
 <br/>
+<br/>
+![](https://komarev.com/ghpvc/?username=evgeniymsk)
 <!--
 **EvgeniyMsk/EvgeniyMsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
