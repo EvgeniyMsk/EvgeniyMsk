@@ -1,4 +1,4 @@
-Any questions? ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white): @logvinov_evgeniy.  
+Any questions? Telegram: @logvinov_evgeniy.  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniymsk&layout=compact)
 <br/>
