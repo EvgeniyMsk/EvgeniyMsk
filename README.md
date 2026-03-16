@@ -46,7 +46,6 @@ DevOps / Platform инженер. Строю **надёжную инфрастр
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Статистика (по желанию)
 <div>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evgeniymsk&layout=compact" alt="Top languages" />
 </div>
