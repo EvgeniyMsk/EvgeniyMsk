@@ -13,7 +13,7 @@ DevOps / Platform инженер, немного знаю Backend (Java). Стр
 </div>
 
 ### Чем занимаюсь
-- **Linux, инфраструктура, сеть и Kubernetes**: проектирование кластеров, сервисы, ingress, networking, наблюдаемость, безопасность.
+- **Linux, инфраструктура, сеть и Kubernetes**: проектирование кластеров, сервисы, ingress, networking.
 - **CI/CD и платформа**: GitLab CI, GitOps, Vault, пайплайны, шаблоны и best practices для команд.
 - **Инфраструктура как код**: Terraform (VSphere Provider), Ansible.
 - **Автоматизация**: Shell, Python-скрипты, self‑service инструменты для разработчиков.
