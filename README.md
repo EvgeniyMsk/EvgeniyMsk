@@ -2,8 +2,9 @@
 
 ## Евгений Л.
 
-DevOps / Platform инженер. Строю **надёжную инфраструктуру**, **прозрачный CI/CD** и **автоматизацию без боли**.
+DevOps / Platform инженер, немного знаю Backend (Java). Строю **надёжную инфраструктуру**, **прозрачный CI/CD** и **автоматизацию без боли**.
 
+Моя база знаний DevOps
 [![Website](https://img.shields.io/badge/Website-devops.evgeniymsk.ru-0b7285?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://devops.evgeniymsk.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-@logvinov_evgeniy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/logvinov_evgeniy)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Qsymond-111?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/Qsymond/)
@@ -13,10 +14,10 @@ DevOps / Platform инженер. Строю **надёжную инфрастр
 
 ### Чем занимаюсь
 - **Linux, инфраструктура, сеть и Kubernetes**: проектирование кластеров, сервисы, ingress, networking, наблюдаемость, безопасность.
-- **CI/CD и платформа**: GitLab CI, GitOps‑подход, пайплайны “code → prod”, шаблоны и best practices для команд.
-- **Инфраструктура как код**: Terraform, Ansible, модульные репозитории и переиспользуемые шаблоны.
-- **Автоматизация**: Shell/PowerShell, скрипты, self‑service инструменты для разработчиков.
-- **Мониторинг и логирование**: Prometheus, Grafana, ELK‑стек, алертинг и дэшборды для команд.
+- **CI/CD и платформа**: GitLab CI, GitOps, Vault, пайплайны, шаблоны и best practices для команд.
+- **Инфраструктура как код**: Terraform (VSphere Provider), Ansible.
+- **Автоматизация**: Shell, Python-скрипты, self‑service инструменты для разработчиков.
+- **Мониторинг и логирование**: Prometheus, Grafana, ELK‑стек, алертинг и дашборды.
 - **Разработка как инструмент**: Java/Python/TypeScript для внутренних сервисов, утилит и интеграций.
 
 ### Стек
