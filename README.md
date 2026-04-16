@@ -8,7 +8,7 @@ DevOps / Platform инженер, немного знаю Backend (Java). Стр
 [![Telegram](https://img.shields.io/badge/Telegram-@logvinov_evgeniy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/logvinov_evgeniy)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Qsymond-111?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/Qsymond/)
 ![](https://komarev.com/ghpvc/?username=evgeniymsk&style=for-the-badge)
-
+[![SadServers Level](https://img.shields.io/badge/SadServers-Advanced-7B1FA2?style=for-the-badge&labelColor=FFC400&logo=terraform&logoColor=1A237E&logoSize=auto)](https://sadservers.com/accounts/dashboard)
 </div>
 
 ### Чем занимаюсь
