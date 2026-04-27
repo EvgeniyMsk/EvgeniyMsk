@@ -5,6 +5,7 @@
 DevOps / Platform инженер, немного знаю Backend (Java). Строю **надёжную инфраструктуру**, **прозрачный CI/CD** и **автоматизацию без боли**.
 
 [![Website](https://img.shields.io/badge/Website-devops.evgeniymsk.ru-0b7285?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://devops.evgeniymsk.ru)
+[![Website](https://img.shields.io/badge/Website-devops-campus.ru-0b7285?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://devops.evgeniymsk.ru)
 [![Telegram](https://img.shields.io/badge/Telegram-@logvinov_evgeniy-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/logvinov_evgeniy)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Qsymond-111?style=for-the-badge&logo=leetcode&logoColor=yellow)](https://leetcode.com/Qsymond/)
 ![](https://komarev.com/ghpvc/?username=evgeniymsk&style=for-the-badge)
@@ -18,7 +19,7 @@ DevOps / Platform инженер, немного знаю Backend (Java). Стр
 - **Автоматизация**: Shell, Python-скрипты, self‑service инструменты для разработчиков.
 - **Мониторинг и логирование**: Prometheus, Grafana, ELK‑стек, алертинг и дашборды.
 - **Разработка как инструмент**: Java/Python/TypeScript для внутренних сервисов, утилит и интеграций.
-
+- **Развиваю свои проекты**: [DevOps база знаний](https://devops.evgeniymsk.ru), [DevOps-Campus.ru](https://devops-campus.ru)
 ### Стек
 **DevOps / Platform**
 
